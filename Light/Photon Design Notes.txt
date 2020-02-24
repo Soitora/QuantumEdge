@@ -1,0 +1,7 @@
+Grey 80: "toolbar", "toolbar_field_border", "toolbar_field_border_focus", "toolbar_bottom_seperator", "toolbar_top_seperator", "popup_border", "popup_highlight", tab_selected", "ntp_background"
+Grey 70: "accentcolor", "toolbar_field_focus", "toolbar_field_seperator", "toolbar_vertical_seperator", "button_background_active", "button_background_hover", "popup", "frame_inactive"
+Grey 50: "tab_line", "tabl_background_seperator"
+Grey 30: "textcolor", "toolbar_text", toolbar_field_text", "toolbar_field_text_focus", "popup_text", "icons", "ntp_text"
+Blue 60: "icons_attention", "tab_loading"
+Purple 90 [Private]: "accentcolor"
+Purple 60 [Private]: "icons_attention", "tab_loading", "tab_line"
